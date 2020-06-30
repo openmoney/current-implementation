@@ -11,7 +11,7 @@ https://github.com/openmoney/openmoney-network/
 - Dockerization of the above:
 https://github.com/openmoney/openmoney-d/
 
-- Additional API implementation for covestment applications:
+- Additional API implementation for Merchant "gift" applications:
 https://github.com/openmoney/openmoney-gift-api/
 
 - Merchants' web interface for the "gift" API:
